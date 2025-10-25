@@ -34,9 +34,10 @@ const Footer = () => {
 
         </div>
         <hr/>
-        <p className='footer-copyright'>Copyright 2025 TOmato.com - All Right Reserver.</p>
+        <p className='footer-copyright'>Copyright 2025 Foody - All Right Reserved.</p>
     </div>
   )
 }
+
 
 export default Footer
